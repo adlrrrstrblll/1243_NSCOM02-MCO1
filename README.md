@@ -1,4 +1,4 @@
-# 🛰️ Custom Ping Utility Using ICMP (MCO1)
+# [1243_NSCOM02] 🛰️ Custom Ping Utility Using ICMP (MCO1)
 
 ## 📌 Overview
 
@@ -92,6 +92,6 @@ RTT (min/avg/max) = 11.98 / 12.52 / 13.12 ms
 
 ```
 ### 👨‍💻 Author
-Adler Clarence E. Strebel
-College of Computer Studies
-Bachelor of Science in Computer Science, Major in Network and Information Security
+- Adler Clarence E. Strebel
+- College of Computer Studies
+- Bachelor of Science in Computer Science, Major in Network and Information Security
