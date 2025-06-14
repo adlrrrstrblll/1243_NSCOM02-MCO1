@@ -90,7 +90,7 @@ Request timed out for seq=4
 Packets: Sent = 4, Received = 3, Lost = 1 (25% loss)  
 RTT (min/avg/max) = 11.98 / 12.52 / 13.12 ms
 
-
+```
 ### 👨‍💻 Author
 Adler Clarence E. Strebel
 College of Computer Studies
